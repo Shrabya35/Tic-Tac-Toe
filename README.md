@@ -20,4 +20,4 @@ Start the server
 
 ## Thanks
 
-If you like this portfolio template don't forget give it a ⭐
+If you like this project don't forget give it a ⭐
