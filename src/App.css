@@ -1,0 +1,5 @@
+html {
+    scroll-behavior: smooth;
+    zoom: 0.7;
+    transform-origin: top left;
+}
